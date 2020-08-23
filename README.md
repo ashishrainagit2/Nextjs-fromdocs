@@ -10,6 +10,7 @@
 10. Pre-rendering 
 11. static generation and server side rendering
 12. getStaticProps
+13. getServerSideProps
 
 
 
